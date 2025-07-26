@@ -1,5 +1,5 @@
 # prophunt-api
-The prophunt API is divided in two separate applications. 
+The prophunt API is divided into two separate applications. 
 You will primarily want "props_api", as this is the main api (similar to Idyl's) which handles the props and hiding.
 The second api, lobby_api, will add the functionality for lobbies. You do not need this if you do not want it, but it is available.
 
